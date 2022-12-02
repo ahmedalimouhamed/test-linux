@@ -25,5 +25,4 @@ void main(){
   recv(clientSocket, buffer, 1024, 0);
   printf("[+]Data Received : %s\n", buffer);
   printf("[+]closing the connexion\n");
-  printf("[+]closing the connexion\n");
 }

@@ -38,6 +38,4 @@ void main(){
   send(newSocket, buffer, strlen(buffer), 0);
   printf("[+]send the data to the client\n");
   printf("[+]closing the connexion\n");
-  printf("[+]closing the connexion\n");
-  printf("[+]closing the connexion\n");
 }
