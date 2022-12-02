@@ -32,6 +32,7 @@ int main(int argc, char** argv){
   //socket settings
   listenfd ) socket(AF_INET, SOCK_STREAM, 0);
   serv_addr.sin_family
+  printf("test");
 
   return EXIT_SUCCESS;
 }
